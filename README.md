@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mete
 # 💫 About Me:
-##I'm a fourth grade Computer Engineering Student at Gebze Technical University.<br><br>🌱 I’m currently learning Back End technologies.<br>
+## I'm a fourth grade Computer Engineering Student at Gebze Technical University.<br><br>🌱 I’m currently learning Back End technologies.<br>
 
 
 ## 🌐 Socials:
