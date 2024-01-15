@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Mete
 
+
 🚀 Computer Engineering Student at Gebze Technical University.
 
 💻 Delving into Backend Technologies and passionately exploring the realms of Computer Vision and Data Science.
