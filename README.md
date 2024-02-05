@@ -7,8 +7,6 @@
 
 👁️ Specifically, my focus in Computer Vision extends to the fascinating world of AI, where I specialize in crafting solutions using Convolutional Neural Networks (CNNs) to unravel complex visual data.
 
-📊 On the Data Science front, I'm all about extracting meaningful insights from raw information, utilizing tools and techniques to turn data into knowledge.
-
 🎮 Beyond the screen, I channel my creativity into developing engaging 2D games.
 
 # 📊 GitHub Stats:
